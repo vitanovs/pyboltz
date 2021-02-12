@@ -1,3 +1,3 @@
-# PyRBM
+# PyBoltz
 
-Restricted Boltzmann Machine implementation with PyTorch.
+Boltzmann Machine implementation with PyTorch.

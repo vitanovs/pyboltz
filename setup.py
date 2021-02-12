@@ -14,9 +14,9 @@ with open('requirements.txt', 'r') as f:
     INSTALL_REQUIRES = f.read().strip().split('\n')
 
 setup(
-    name='pyrbm',
+    name='pyboltz',
     version=VERSION,
-    description='Restricted Boltzmann Machine implementation with PyTorch',
+    description='Boltzmann Machine implementation with PyTorch',
     long_description=LONG_DESCRIPTION,
     author='Stoyan Vitanov',
     author_email='stoyan.a.vitanov@gmail.com',
